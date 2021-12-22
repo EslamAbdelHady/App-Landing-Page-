@@ -1,0 +1,15 @@
+App  Landing Page Project 
+
+this project contains 3 parts
+
+1-Navigation
+
+This is an un order list built dynamically as Navigation using Append, appendChild, and innerHTML.
+
+2- Section Active State
+
+when you scroll to section(num) for example you scroll to section 2 you will see the back ground contain animation to let you know 
+
+3- Scroll to Anchor
+
+it use to get to section by clicking on element in menu bar and scroll smoothly to an element .
